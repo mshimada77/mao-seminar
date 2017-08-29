@@ -1,2 +1,4 @@
 .DS_Store
 Thumbs.db
+.vs/config/applicationhost.config
+.vs/
